@@ -20,6 +20,5 @@ class TestCalculateHappiness(unittest.TestCase):
         result = calculate_happiness()
         self.assertEqual(result, 1)
 
-
 if __name__ == "__main__":
     unittest.main()
