@@ -29,3 +29,5 @@ if __name__ == "__main__":
     result = find_average()
 
     print(f"{result:.2f}")
+
+    
