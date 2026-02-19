@@ -16,7 +16,6 @@ class TestProbabilityOfA(unittest.TestCase):
         ]
 
         result = probability_of_a()
-
         self.assertEqual(result, 0.8333)
 
 if __name__ == "__main__":
