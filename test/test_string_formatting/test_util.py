@@ -19,6 +19,5 @@ class TestPrintFormatted(unittest.TestCase):
 
         self.assertEqual(mock_output.getvalue(), expected_output)
 
-
 if __name__ == "__main__":
     unittest.main()
