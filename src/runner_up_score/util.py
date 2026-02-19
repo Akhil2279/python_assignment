@@ -27,6 +27,3 @@ if __name__ == "__main__":
     result = find_runner_up()
 
     print(result)
-
-
-
