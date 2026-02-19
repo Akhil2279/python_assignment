@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print(mean_value)
     print(var_value)
     print(std_value)
+
+
