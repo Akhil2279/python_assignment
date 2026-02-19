@@ -16,6 +16,5 @@ class TestMutateString(unittest.TestCase):
         result = mutate_string()
         self.assertEqual(result, "abrackdabra")
 
-
 if __name__ == "__main__":
     unittest.main()
