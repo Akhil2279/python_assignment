@@ -2,7 +2,6 @@
 import unittest
 from src.time_delta.util import time_delta
 
-
 class TestTimeDelta(unittest.TestCase):
 
     def test_example_case(self):
@@ -18,7 +17,6 @@ class TestTimeDelta(unittest.TestCase):
         
         result = time_delta(t1, t2)
         self.assertEqual(result, 0)
-
 
 if __name__ == "__main__":
     unittest.main()
